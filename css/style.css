@@ -25,6 +25,7 @@ nav a{
     margin-left: 1.5rem;
     text-decoration: rgb(255, 0, 0);
     font-weight: 500;
+    font-size: large;
 }
 nav a:hover, nav a.active{
     color:rgb(255, 0, 0);
